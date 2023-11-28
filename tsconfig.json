@@ -8,7 +8,6 @@
     "esModuleInterop": true,
     // vite recommends this
     "isolatedModules": true,
-    // preact specific
     "jsx": "react-jsx",
     "lib": ["DOM", "DOM.Iterable", "ESNext"],
     "module": "ESNext",
